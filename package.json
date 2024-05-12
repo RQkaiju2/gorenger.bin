@@ -1,0 +1,18 @@
+{
+  "name": "gorenger.bin",
+  "version": "1.0.0",
+  "description": "general purpose bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "remmington queensthrone",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
